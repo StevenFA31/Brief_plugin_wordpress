@@ -41,4 +41,5 @@ travail individuel à réaliser en un jour
 démo live au formateur...
 ou fourniture d'un repo GIT
 ...selon les indications du formateur !
-# Brief_plugin_wordpress
+
+
